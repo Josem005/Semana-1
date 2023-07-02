@@ -15,3 +15,10 @@
 | Cd   | Retrocede a la carpeta anterior    |
 | pwd   | Muestra el directorio actual    |
 | mkdir   | Sirve para crear directorios    |
+
+
+# Comandos alias
+| Comando  | Descripcion | 
+|----------|-----------------------------|               
+| Ls       | Lista de archivos o carpetas|
+| Cl| Limpiar   |
