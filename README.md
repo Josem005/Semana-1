@@ -5,5 +5,5 @@
 | Comando  | Descripcion | 
 |----------|-----------------------------|               
 | Ls       | Lista de archivos o carpetas|
-| Row 2    | Cell 5      |
-| Row 3    | Cell 8      |
+| Clear    | Limpia la pantalla    |
+| Cd   | Retrocede a la carpeta anterior    |
