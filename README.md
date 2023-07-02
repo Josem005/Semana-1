@@ -1,10 +1,12 @@
 # 👋Hola, Mi Nombre es José Miguel
 
-##Tengo 15 años y quiero aprender en los tres meses de vacaciones que tengo todo lo posible de este Bootcamp.👾
+## Tengo 15 años y quiero aprender en los tres meses de vacaciones que tengo todo lo posible de este Bootcamp.👾
 
 
 
-#Comandos de shell utiles
+# Comandos de shell utiles
+
+|--------------------------------------------------|
 
 | Comando  | Descripcion | 
 |----------|-----------------------------|               
